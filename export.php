@@ -19,3 +19,4 @@ class exportHandler
 $object = new exportHandler();
 $object->doExport($handlerObject);
 echo  "ASafsadasdfsdD";
+echo  "ASafsdfsdD";
